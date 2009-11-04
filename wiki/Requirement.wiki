@@ -5,7 +5,16 @@
 This page will list the car leasing system requestion:
  * 1 User authorities module.
    * 1.1 user manager
+   * 1.2 rule manager
+   * 1.3 group manager
  * 2 Car information manager module.
+   * 2.1 car infomation manager
+   * 2.2 car insurance manager
+   * 2.3 car inspection manager
+   * 2.4 car maintenance manager
+   * 2.5 car oiling manager.
+   * 2.6 car maintain manager
+   * 2.7 car violation of regulation record manager.
  * 3 Car rent manager moudle.
  * 4 Customer manager moudle.
  * 5 Report manager moudle.
