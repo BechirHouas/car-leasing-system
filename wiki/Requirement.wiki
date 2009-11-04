@@ -2,7 +2,13 @@
 
 = Introduction =
 
-This page will list the car leasing system requestion..
+This page will list the car leasing system requestion.
+*User authorities module.
+*user manager*
+*role manager*
+*group manager*
+*Car information manager module.
+
 
 
 = Details =
