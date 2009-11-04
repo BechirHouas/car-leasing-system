@@ -15,6 +15,9 @@ This page will list the car leasing system requestion:
    * 2.5 car oiling manager.
    * 2.6 car maintain manager
    * 2.7 car violation of regulation record manager.
+   * 2.8 car accident manager
+   * 2.9 car type manager.
+   * 2.10 driver manager.
  * 3 Car rent manager moudle.
  * 4 Customer manager moudle.
  * 5 Report manager moudle.
