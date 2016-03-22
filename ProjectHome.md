@@ -1,0 +1,1 @@
+The car leasing system use B/S architecture. Use Java/J2ee technique.
